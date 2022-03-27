@@ -1,0 +1,4 @@
+-cp src
+-lib hxargs
+-lib console.hx
+--main Main
